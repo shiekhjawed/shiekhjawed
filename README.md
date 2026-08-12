@@ -79,15 +79,11 @@
 ---
 
 ### 📊 GitHub Stats
+<br>
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=shiekhjawed&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
-</div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiekhjawed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 ---
 
 ### 💻 Currently Working On
