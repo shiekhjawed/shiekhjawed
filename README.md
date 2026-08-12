@@ -81,9 +81,7 @@
 ### 📊 GitHub Stats
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiekhjawed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shiekhjawed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
