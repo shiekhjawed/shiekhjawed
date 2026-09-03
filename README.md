@@ -67,8 +67,8 @@
 | **Vite + React + Tailwind** | Modern, fast UI built with Vite + Tailwind CSS | React, Tailwind, Vite | [Live](https://veet-84zn.vercel.app/) |
 | **Firebase Auth App** | Complete authentication system with Firebase | React, Firebase | [Live](https://sign-f-irebase.vercel.app/) |
 | **Simple React App** | Clean React application demonstrating core concepts | React | [Live](https://my-app-phi-mauve-26.vercel.app/) |
-| **Netlify Portfolio 1** | Alternative portfolio design | HTML/CSS/JS | [Live](https://cheerful-moxie-9ae3e4.netlify.app/) |
-| **Netlify Portfolio 2** | Another modern portfolio variation | HTML/CSS/JS | [Live](https://splendorous-duckanoo-354c18.netlify.app/) |
+| **Candy crush game** | Interactive match-3 puzzle game with a responsive and user-friendly UI| HTML/CSS/JS | [Live](https://cheerful-moxie-9ae3e4.netlify.app/) |
+| **Netlify Portfolio 2** | Amazon Clone|Responsive E-commerce UI clone inspired by Amazon  | HTML/CSS/Bootstrap | [Live](https://hosting-five-pink.vercel.app/) |
 
 ---
 
