@@ -61,6 +61,7 @@
 ### 🚀 Featured Projects
 
 | Project | Description | Tech | Live Demo |
+
 |---------|-------------|------|-----------|
 | **Personal Portfolio** | Clean & responsive portfolio showcasing skills and projects | Next.js,tailwind css3 | [Live](https://next-portfolio-six-bay.vercel.app/) 
 | **Vite + React + GSAP Animation ** | Modern, fast UI built with Vite + Tailwind CSS + GSAP animations | React, Tailwind CSS, Vite, GSAP, jQuery | [Live](https://wite-komi.vercel.app/) |
@@ -69,6 +70,7 @@
 | **Simple React App** | Clean React application demonstrating core concepts | React | [Live](https://my-app-phi-mauve-26.vercel.app/) |
 | **Candy crush game** | Interactive match-3 puzzle game with a responsive and user-friendly UI| HTML, CSS, JS | [Live](https://cheerful-moxie-9ae3e4.netlify.app/) |
 | **Amazon clone** | Responsive E-commerce UI clone inspired by Amazon | HTML, CSS, Bootstrap | [Live](https://hosting-five-pink.vercel.app/) |
+|**Athentication on mogoDB| |sign-up login and logout page |Next.js and save data on mongodb | [Live}(https://auth-next-pgf1.vercel.app/)|
 
 
 
