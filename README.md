@@ -100,22 +100,21 @@
 
 <p align="center">
   <a href="mailto:shiekhamberjawed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/solid/envelope.svg" width="35" height="35" style="filter: invert(27%) sepia(90%) saturate(1000%) hue-rotate(340deg);" />
   </a>
   <a href="https://www.linkedin.com/in/shiekh-amber-jawed-856602255/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/linkedin.svg" width="35" height="35" />
   </a>
   <a href="https://github.com/shiekhjawed">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/github.svg" width="35" height="35" />
   </a>
   <a href="https://www.instagram.com/shiekhamberjawed/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/instagram.svg" width="35" height="35" />
   </a>
   <a href="https://www.facebook.com/100009886772550">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/facebook.svg" width="35" height="35" />
   </a>
 </p>
-
 ---
 
 <br>
