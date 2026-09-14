@@ -108,7 +108,7 @@
       width="35"
       height="35"
       alt="Email"
-          style="filter: invert(24%) sepia(98%) saturate(7471%) hue-rotate(239deg) brightness(92%) contrast(144%);"
+            style="filter: invert(8%) sepia(100%) saturate(7499%) hue-rotate(248deg) brightness(95%) contrast(147%);"
     />
   </a>
   &nbsp;&nbsp;
