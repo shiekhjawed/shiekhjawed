@@ -153,6 +153,42 @@
   </a>
 </p>
 
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:shiekhamberjawed@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/shiekh-amber-jawed-856602255/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/shiekhjawed">
+    <img
+      src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.instagram.com/shiekhamberjawed/">
+    <img
+      src="https://img.shields.io/badge/Instagram-58A6FF?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+  <a href="https://www.facebook.com/100009886772550">
+    <img
+      src="https://img.shields.io/badge/Facebook-58A6FF?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
+  </a>
+</p>
+
 <br>
 
 <p align="center">
