@@ -58,20 +58,20 @@
 
 ---
 
+
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech | Live Demo |
-
-|---------|-------------|------|-----------|
-| **Personal Portfolio** | Clean & responsive portfolio showcasing skills and projects | Next.js,tailwind css3 | [Live](https://next-portfolio-six-bay.vercel.app/) 
-| **Vite + React + GSAP Animation ** | Modern, fast UI built with Vite + Tailwind CSS + GSAP animations | React, Tailwind CSS, Vite, GSAP, jQuery | [Live](https://wite-komi.vercel.app/) |
-| **Vite + React + Tailwind** | Modern, fast UI built with Vite + Tailwind CSS | React, Tailwind, Vite | [Live](https://veet-84zn.vercel.app/) |
-| **Firebase Auth App** | Complete authentication system with Firebase | React, Firebase | [Live](https://sign-f-irebase.vercel.app/) |
-| **Simple React App** | Clean React application demonstrating core concepts | React | [Live](https://my-app-phi-mauve-26.vercel.app/) |
-| **Candy crush game** | Interactive match-3 puzzle game with a responsive and user-friendly UI| HTML, CSS, JS | [Live](https://cheerful-moxie-9ae3e4.netlify.app/) |
-| **Amazon clone** | Responsive E-commerce UI clone inspired by Amazon | HTML, CSS, Bootstrap | [Live](https://hosting-five-pink.vercel.app/) |
-|**Athentication on mogoDB| |sign-up login and logout page |Next.js and save data on mongodb | [Live}(https://auth-next-pgf1.vercel.app/)|
-
+|---|---|---|---|
+| **Personal Portfolio** | Clean and responsive portfolio showcasing my skills and projects. | Next.js, Tailwind CSS | [Live Demo](https://next-portfolio-six-bay.vercel.app/) |
+| **Vite + React + GSAP Animation** | Modern and fast user interface with smooth GSAP animations. | React, Tailwind CSS, Vite, GSAP, jQuery | [Live Demo](https://wite-komi.vercel.app/) |
+| **Vite + React + Tailwind** | Modern responsive interface built with React and Tailwind CSS. | React, Tailwind CSS, Vite | [Live Demo](https://veet-84zn.vercel.app/) |
+| **Firebase Auth App** | Authentication application with login and signup functionality. | React, Firebase | [Live Demo](https://sign-f-irebase.vercel.app/) |
+| **Simple React App** | React application demonstrating core React concepts. | React | [Live Demo](https://my-app-phi-mauve-26.vercel.app/) |
+| **Candy Crush Game** | Interactive match-three puzzle game with a responsive interface. | HTML, CSS, JavaScript | [Live Demo](https://cheerful-moxie-9ae3e4.netlify.app/) |
+| **Amazon Clone** | Responsive ecommerce interface inspired by Amazon. | HTML, CSS, Bootstrap | [Live Demo](https://hosting-five-pink.vercel.app/) |
+| **MongoDB Authentication App** | Signup, login, logout, and user data storage with MongoDB. | Next.js, MongoDB | [Live Demo](https://auth-next-pgf1.vercel.app/) |
 
 
 ### 📄 Resume
@@ -96,26 +96,26 @@
 
 ---
 
+
 ### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:shiekhamberjawed@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/solid/envelope.svg" width="35" height="35" style="filter: invert(27%) sepia(90%) saturate(1000%) hue-rotate(340deg);" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/shiekh-amber-jawed-856602255/">
-    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/linkedin.svg" width="35" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/shiekhjawed">
-    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/github.svg" width="35" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/shiekhamberjawed/">
-    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/instagram.svg" width="35" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/100009886772550">
-    <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/brands/facebook.svg" width="35" height="35" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
----
 
 <br>
 
