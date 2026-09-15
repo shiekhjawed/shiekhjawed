@@ -64,7 +64,7 @@
 
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
-| **Personal Portfolio** | Clean and responsive portfolio showcasing my skills and projects. | Next.js, Tailwind CSS | [Live Demo](https://next-portfolio-bxubz2uo3-shiekhamber-jaweds-projects.vercel.app/) |
+| **Personal Portfolio** | Clean and responsive portfolio showcasing my skills and projects. | Next.js, Tailwind CSS | [Live Demo](https://next-portfolio-six-bay.vercel.app/) |
 | **Vite + React + GSAP Animation** | Modern and fast user interface with smooth GSAP animations. | React, Tailwind CSS, Vite, GSAP, jQuery | [Live Demo](https://wite-komi.vercel.app/) |
 | **Vite + React + Tailwind** | Modern responsive interface built with React and Tailwind CSS. | React, Tailwind CSS, Vite | [Live Demo](https://veet-84zn.vercel.app/) |
 | **Firebase Auth App** | Authentication application with login and signup functionality. | React, Firebase | [Live Demo](https://sign-f-irebase.vercel.app/) |
