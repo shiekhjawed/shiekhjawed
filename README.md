@@ -69,7 +69,7 @@
 | **Vite + React + Tailwind** | Modern responsive interface built with React and Tailwind CSS. | React, Tailwind CSS, Vite | [Live Demo](https://veet-84zn.vercel.app/) |
 | **Firebase Auth App** | Authentication application with login and signup functionality. | React, Firebase | [Live Demo](https://sign-f-irebase.vercel.app/) |
 | **Simple React App** | React application demonstrating core React concepts. | React | [Live Demo](https://my-app-phi-mauve-26.vercel.app/) |
-| **Candy Crush Game** | Interactive match-three puzzle game with a responsive interface. | HTML, CSS, JavaScript | [Live Demo](candy-4223mntwz-shiekhamber-jaweds-projects.vercel.app/) |
+| **Candy Crush Game** | Interactive match-three puzzle game with a responsive interface. | HTML, CSS, JavaScript | [Live Demo](https://candy-theta-two.vercel.app/) |
 | **Amazon Clone** | Responsive ecommerce interface inspired by Amazon. | HTML, CSS, Bootstrap | [Live Demo](https://hosting-five-pink.vercel.app/) |
 | **MongoDB Authentication App** | Signup, login, logout, and user data storage with MongoDB. | Next.js, MongoDB | [Live Demo](https://auth-next-pgf1.vercel.app/) |
 
