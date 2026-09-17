@@ -72,6 +72,7 @@
 | **Candy Crush Game** | Interactive match-three puzzle game with a responsive interface. | HTML, CSS, JavaScript | [Live Demo](https://candy-theta-two.vercel.app/) |
 | **Amazon Clone** | Responsive ecommerce interface inspired by Amazon. | HTML, CSS, Bootstrap | [Live Demo](https://hosting-five-pink.vercel.app/) |
 | **MongoDB Authentication App** | Signup, login, logout, and user data storage with MongoDB. | Next.js, MongoDB | [Live Demo](https://auth-next-pgf1.vercel.app/) |
+|**js quiz app** | Netifiy deployment practice js quiz i make quizapp | javascript html css | [live Demo](symphonious-gumption-181f82.netlify.app/) |
 
 
 ### 📄 Resume
