@@ -73,6 +73,7 @@
 | **Amazon Clone** | Responsive ecommerce interface inspired by Amazon. | HTML, CSS, Bootstrap | [Live Demo](https://hosting-five-pink.vercel.app/) |
 | **MongoDB Authentication App** | Signup, login, logout, and user data storage with MongoDB. | Next.js, MongoDB | [Live Demo](https://auth-next-pgf1.vercel.app/) |
 |**js quiz app** | Netifiy deployment practice js quiz i make quizapp | javascript html css | [live Demo](https://symphonious-gumption-181f82.netlify.app/) |
+|** Word project** |foam SBTE ||MS Word |[live Demo](https://SBTE form shiekh Amber jawed.pdf/)
 
 
 ### 📄 Resume
