@@ -80,7 +80,7 @@
 
 ### 📄 Resume
 
-[📄 View My Resume](./Amber_Jawed_Resume.pdf)
+[ View My Resume](./Amber_Jawed_Resume.pdf)
 
 ---
 
