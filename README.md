@@ -64,7 +64,7 @@
 
 | Project | Description | Tech | Live Demo |
 |---|---|---|---|
-| **Personal Portfolio** | Clean and responsive portfolio showcasing my skills and projects. | Next.js, Tailwind CSS | [Live Demo](https://next-portfolio-six-bay.vercel.app/)|
+| **Personal Portfolio** | Clean and responsive portfolio showcasing my skills and projects. | Next.js, Tailwind CSS | [Live Demo](https://next-portfolio-six-bay.vercel.app/) |
 | **Vite + React + GSAP Animation** | Modern and fast user interface with smooth GSAP animations. | React, Tailwind CSS, Vite, GSAP, jQuery | [Live Demo](https://wite-komi.vercel.app/) |
 | **Vite + React + Tailwind** | Modern responsive interface built with React and Tailwind CSS. | React, Tailwind CSS, Vite | [Live Demo](https://veet-84zn.vercel.app/) |
 | **Firebase Auth App** | Authentication application with login and signup functionality. | React, Firebase | [Live Demo](https://sign-f-irebase.vercel.app/) |
@@ -72,8 +72,10 @@
 | **Candy Crush Game** | Interactive match-three puzzle game with a responsive interface. | HTML, CSS, JavaScript | [Live Demo](https://candy-theta-two.vercel.app/) |
 | **Amazon Clone** | Responsive ecommerce interface inspired by Amazon. | HTML, CSS, Bootstrap | [Live Demo](https://hosting-five-pink.vercel.app/) |
 | **MongoDB Authentication App** | Signup, login, logout, and user data storage with MongoDB. | Next.js, MongoDB | [Live Demo](https://auth-next-pgf1.vercel.app/) |
-|**JS Quiz App** | Netifiy deployment practice js quiz i make quizapp | javascript html css | [live Demo](https://symphonious-gumption-181f82.netlify.app/) |
-|**Word project** | foam SBTE | MS Word |[live Demo](https://github.com/shiekhjawed/EXCEL-AND-WORD-PROJECT/blob/main/SBTE%20form%20shiekh%20Amber%20jawed.pdf/)
+| **JS Quiz App** | JavaScript quiz application created as a deployment practice project. | HTML, CSS, JavaScript | [Live Demo](https://symphonious-gumption-181f82.netlify.app/) |
+| **Netflix Website** | Responsive Netflix-inspired website built with pure HTML and CSS. | HTML, CSS | [Live Demo](https://netfilx-website-alpha.vercel.app/) |
+| **Apple Demo Website** | Responsive Apple-inspired website built with pure HTML and CSS. | HTML, CSS | [Live Demo](https://mobile-apple-demo-website.vercel.app/) |
+| **Word Project** | SBTE form/document project created using Microsoft Word. | MS Word | [View Project](https://github.com/shiekhjawed/EXCEL-AND-WORD-PROJECT/blob/main/SBTE%20form%20shiekh%20Amber%20jawed.pdf) |
 
 
 
