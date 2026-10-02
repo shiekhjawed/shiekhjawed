@@ -76,10 +76,11 @@
 |**Word project** | foam SBTE | MS Word |[live Demo](https://github.com/shiekhjawed/EXCEL-AND-WORD-PROJECT/blob/main/SBTE%20form%20shiekh%20Amber%20jawed.pdf/)
 
 
+
+
 ### 📄 Resume
 
-
-- [Resume (PDF)](https://github.com/shiekhjawed/About-My-Self/blob/main/AI%20PRO%20RESUME.pdf)
+[📄 View My Resume](./Amber_Jawed_Resume.pdf)
 
 ---
 
