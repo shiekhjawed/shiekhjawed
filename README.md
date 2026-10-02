@@ -78,8 +78,7 @@
 
 ### 📄 Resume
 
-- [Resume (JobLeads)](https://www.jobleads.com/resume-builder/result/12342019?jobId=)
-- [Resume (Enhancv)](https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+
 - [Resume (PDF)](https://github.com/shiekhjawed/About-My-Self/blob/main/AI%20PRO%20RESUME.pdf)
 
 ---
