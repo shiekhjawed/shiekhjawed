@@ -75,7 +75,7 @@
 | **JS Quiz App** | JavaScript quiz application created as a deployment practice project. | HTML, CSS, JavaScript | [Live Demo](https://symphonious-gumption-181f82.netlify.app/) |
 | **Netflix Website** | Responsive Netflix-inspired website built with pure HTML and CSS. | HTML, CSS | [Live Demo](https://netfilx-website-alpha.vercel.app/) |
 | **Apple Demo Website** | Responsive Apple-inspired website built with pure HTML and CSS. | HTML, CSS | [Live Demo](https://mobile-apple-demo-website.vercel.app/) |
-| **Next.js** |  Multer application with login and signup functionality.| next.js+multer +node.js expresss | [View Demo] (https://next-js-project-uploading-media.vercel.app) |
+| **Next.js** |  Multer application with login and signup functionality.| next.js+multer +node.js expresss | [Live Demo](https://next-js-project-uploading-media.vercel.app) |
 
 
 
