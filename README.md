@@ -58,8 +58,6 @@
 
 ---
 
-
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech | Live Demo |
@@ -75,7 +73,9 @@
 | **JS Quiz App** | JavaScript quiz application created as a deployment practice project. | HTML, CSS, JavaScript | [Live Demo](https://symphonious-gumption-181f82.netlify.app/) |
 | **Netflix Website** | Responsive Netflix-inspired website built with pure HTML and CSS. | HTML, CSS | [Live Demo](https://netfilx-website-alpha.vercel.app/) |
 | **Apple Demo Website** | Responsive Apple-inspired website built with pure HTML and CSS. | HTML, CSS | [Live Demo](https://mobile-apple-demo-website.vercel.app/) |
-| **Next.js** |  Multer application with login and signup functionality.| next.js+multer +node.js expresss | [Live Demo](https://next-js-project-uploading-media.vercel.app) |
+| **Multer Media Upload App** | Full-stack application with login/signup and media upload functionality. | Next.js, Node.js, Express.js, Multer | [Live Demo](https://next-js-project-uploading-media.vercel.app/) |
+| **GraphQL & SQL Blog** | Blog covering GraphQL and SQL concepts, with practical development insights. | GraphQL, SQL | [Read Blog](https://blog-gamma-two-35.vercel.app/) |
+| **Multer & Express.js Blog** | Practical guide to using Multer with Express.js for media uploads and storing uploaded media records in MongoDB. | Node.js, Express.js, Multer, MongoDB, Postman | [Read Blog](https://blog-gamma-two-35.vercel.app/) ||
 
 
 
